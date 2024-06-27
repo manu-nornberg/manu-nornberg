@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f463ae&size=30&center=true&vCenter=true&width=900&lines=HELLO+WORLD;My+name+is+Manu+Nörnberg;I'm+24+years+old;I'm+from+Brazil;Be+welcome!+:%29)](https://git.io/typing-svg)
 
-/*[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manu-nornberg&bg_color=0d1117&color=7d00d9&line=4b0082&point=be7fec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)*/
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manu-nornberg&bg_color=0d1117&color=7d00d9&line=4b0082&point=be7fec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=manu-nornberg&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false" alt="Manu github stats" /> 
